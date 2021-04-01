@@ -8,6 +8,7 @@ public class SynapseApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SynapseApplication.class, args);
+		System.out.println("Loading Synapse...");
 	}
 
 }
